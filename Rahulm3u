@@ -3749,7 +3749,8 @@ https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO | Hindi", Bhajan Radio
 http://192.99.35.215:5086/stream
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies| Hindi",
+#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200909-WA0076.jpg" group-title="NoTv", Faith tv
+http://indtv.online/notv/364.m3u8
 #EXTINF:-1,https://flylinks.net, 12-12-1950 2017 IN
 http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11869.mkv
 #EXTINF:-1,https://flylinks.net, 88 2017 IN
