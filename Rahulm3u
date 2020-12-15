@@ -148,7 +148,74 @@ https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
 
 
-
+#EXTINF:-1 tvg-id="196" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png" group-title="Gujarati",Colors Gujarati
+http://indtv.online/jiotv/Colors_Gujarati.m3u8
+#EXTINF:-1 tvg-id="886" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lakshya_TV.png" group-title="Gujarati",Lakshya TV
+http://indtv.online/jiotv/Lakshya_TV.m3u8
+#EXTINF:-1 tvg-id="714" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Girnar.png" group-title="Gujarati",DD Girnar
+http://indtv.online/jiotv/DD_Girnar.m3u8
+#EXTINF:-1 tvg-id="620" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png" group-title="Gujarati",News18 Gujarati
+http://indtv.online/jiotv/ETV_News_Gujarati.m3u8
+#EXTINF:-1 tvg-id="616" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tv_9_Gujarat.png" group-title="Gujarati",Tv 9 Gujarat
+http://indtv.online/jiotv/Tv_9_Gujarat.m3u8
+#EXTINF:-1 tvg-id="641" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Asmita.png" group-title="Gujarati",ABP Asmita
+http://indtv.online/jiotv/ABP_Asmita.m3u8
+#EXTINF:-1 tvg-id="642" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VTV_Gujarati.png" group-title="Gujarati",VTV Gujarati
+http://indtv.online/jiotv/VTV_Gujarati.m3u8
+#EXTINF:-1 tvg-id="782" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sandesh_News.png" group-title="Gujarati",Sandesh News
+http://indtv.online/jiotv/Sandesh_News.m3u8
+#EXTINF:-1 tvg-id="929" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Kalak.png" group-title="Gujarati",Zee 24 Kalak
+http://indtv.online/jiotv/Zee_24_Kalak.m3u8
+#EXTINF:-1 tvg-id="490" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Bazaar_MNO.png" group-title="Gujarati",CNBC Bazaar (MNO)
+http://indtv.online/jiotv/CNBC_Bazaar_MNO.m3u8
+#EXTINF:-1 tvg-id="1187" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Valambhakti.png" group-title="Gujarati",Valam TV
+http://indtv.online/jiotv/Valambhakti.m3u8
+#EXTINF:-1 tvg-id="1186" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kartavya_Tv.png" group-title="Gujarati",Kartavya TV
+http://indtv.online/jiotv/Kartavya_Tv.m3u8
+#EXTINF:-1 tvg-id="1099" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hamari_Sanskruti_TV.png" group-title="Gujarati",Hamari Sanskruti
+http://indtv.online/jiotv/Hamari_Sanskruti_TV.m3u8
+#EXTINF:-1 tvg-id="1069" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_1.png" group-title="Gujarati",Vande Gujarat 1
+http://indtv.online/jiotv/Vande_Gujarat_1.m3u8
+#EXTINF:-1 tvg-id="1070" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_2.png" group-title="Gujarati",Vande Gujarat 2
+http://indtv.online/jiotv/Vande_Gujarat_2.m3u8
+#EXTINF:-1 tvg-id="1082" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_3.png" group-title="Gujarati",Vande Gujarat 3
+http://indtv.online/jiotv/Vande_Gujarat_3.m3u8
+#EXTINF:-1 tvg-id="1071" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_4.png" group-title="Gujarati",Vande Gujarat 4
+http://indtv.online/jiotv/Vande_Gujarat_4.m3u8
+#EXTINF:-1 tvg-id="1083" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_5.png" group-title="Gujarati",Vande Gujarat 5
+http://indtv.online/jiotv/Vande_Gujarat_5.m3u8
+#EXTINF:-1 tvg-id="1084" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_6.png" group-title="Gujarati",Vande Gujarat 6
+http://indtv.online/jiotv/Vande_Gujarat_6.m3u8
+#EXTINF:-1 tvg-id="1085" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_7.png" group-title="Gujarati",Vande Gujarat 7
+http://indtv.online/jiotv/Vande_Gujarat_7.m3u8
+#EXTINF:-1 tvg-id="1086" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_8.png" group-title="Gujarati",Vande Gujarat 8
+http://indtv.online/jiotv/Vande_Gujarat_8.m3u8
+#EXTINF:-1 tvg-id="1087" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_9.png" group-title="Gujarati",Vande Gujarat 9
+http://indtv.online/jiotv/Vande_Gujarat_9.m3u8
+#EXTINF:-1 tvg-id="1088" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_10.png" group-title="Gujarati",Vande Gujarat 10
+http://indtv.online/jiotv/Vande_Gujarat_10.m3u8
+#EXTINF:-1 tvg-id="1089" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_11.png" group-title="Gujarati",Vande Gujarat 11
+http://indtv.online/jiotv/Vande_Gujarat_11.m3u8
+#EXTINF:-1 tvg-id="1090" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_12.png" group-title="Gujarati",Vande Gujarat 12
+http://indtv.online/jiotv/Vande_Gujarat_12.m3u8
+#EXTINF:-1 tvg-id="1091" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_13.png" group-title="Gujarati",Vande Gujarat 13
+http://indtv.online/jiotv/Vande_Gujarat_13.m3u8
+#EXTINF:-1 tvg-id="1092" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_14.png" group-title="Gujarati",Vande Gujarat 14
+http://indtv.online/jiotv/Vande_Gujarat_14.m3u8
+#EXTINF:-1 tvg-id="1093" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_15.png" group-title="Gujarati",Vande Gujarat 15
+http://indtv.online/jiotv/Vande_Gujarat_15.m3u8
+#EXTINF:-1 tvg-id="1094" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_16.png" group-title="Gujarati",Vande Gujarat 16
+http://indtv.online/jiotv/Vande_Gujarat_16.m3u8
+#EXTINF:-1 tvg-id="643" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/GS_TV.png" group-title="Gujarati",GS TV
+http://indtv.online/jiotv/GS_TV.m3u8
+#EXTINF:-1 tvg-id="944" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mantavya_News.png" group-title="Gujarati",Mantavya News
+http://indtv.online/jiotv/Mantavya_News.m3u8
+#EXTINF:-1 tvg-id="1343" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Gujarati.png" group-title="Gujarati",Nick Gujarati
+http://indtv.online/jiotv/Nick_Gujarati.m3u8
+#EXTINF:-1 tvg-id="1347" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Gujarati.png" group-title="Gujarati",Sonic Gujarati
+http://indtv.online/jiotv/Sonic_Gujarati.m3u8
+#EXTINF:-1 tvg-id="1227" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Digishala.png" group-title="Gujarati",Digishala
+http://indtv.online/jiotv/Digishala.m3u8
 
 
 
